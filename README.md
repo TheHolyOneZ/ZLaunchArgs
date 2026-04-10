@@ -104,6 +104,14 @@ npm install
 npm run tauri dev
 ```
 
+### Pre-built installers
+
+Download the latest release directly from the website — no build tools required:
+
+**[https://zlogic.eu/zlaunchargs/](https://zlogic.eu/zlaunchargs/)**
+
+Available as an NSIS `.exe` setup installer and an MSI package.
+
 ### Production bundle
 
 ```sh
